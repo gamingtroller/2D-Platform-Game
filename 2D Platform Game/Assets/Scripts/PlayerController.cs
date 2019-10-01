@@ -45,6 +45,7 @@ public class PlayerController : MonoBehaviour
 
         Move();
         CheckFacingDirection();
+        Jump();
        
     }
 
